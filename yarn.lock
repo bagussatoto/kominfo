@@ -87,10 +87,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@icons-pack/react-simple-icons@^5.2.0":
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/@icons-pack/react-simple-icons/-/react-simple-icons-5.2.0.tgz#c6bf9bc4b60d76c9155644ac1c35170d31c31300"
-  integrity sha512-98jGZQu3u0opACGlrb2UmS2jODh8ahgdws6f4KLfLqBiWAZG2y+oLDfVxZXxbOF1taQap6OUw4Ao8u0EzJFHZA==
+"@icons-pack/react-simple-icons@^6.2.0":
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/@icons-pack/react-simple-icons/-/react-simple-icons-6.2.0.tgz#0c3823ef2cf9848b2d8ffb2f58f15bdd6b0576f9"
+  integrity sha512-YZzB5oHRvOslOIiug97dLqfhv7U0+78JOa8w5Aqxq2Ulr2bVBrqtFV+hMKXhcZjlPdFzpUrFfAJ9AHLe4FdYqQ==
 
 "@next/bundle-analyzer@^12.2.3":
   version "12.2.3"
