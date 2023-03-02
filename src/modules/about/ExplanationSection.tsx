@@ -85,6 +85,15 @@ export const ExplanationSection = () => {
         , semua service Google sudah terdaftar walau tidak muncul di situs PSE.
       </p>
 
+      <p className='mt-4 max w-prose'>
+        Kejadian ini merupakan sumber akal dari{' '}
+        <link 
+        href='https://www.kominfo.go.id/'
+        >
+          <a className='text-blue-800 underline'>kominfo.go.id</a>
+          </link> 
+      </p>
+
       <p className='mt-4 max-w-prose'>
         Ingin berkontribusi?{' '}
         <Link href='https://github.com/angeloanan/kominfo-d-' passHref>
